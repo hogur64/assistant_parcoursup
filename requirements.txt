@@ -1,0 +1,10 @@
+streamlit
+openai
+python-docx
+docx2pdf
+PyPDF2
+pdfplumber
+reportlab
+stripe
+requests
+pandas
